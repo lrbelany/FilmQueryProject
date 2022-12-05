@@ -13,14 +13,14 @@ communicates with the SQL sever pulling data and distributing that data where re
 
 
 #Technologies Used
-Eclipse
-MySQL
-MAMP
-Maven
-Atom
-Java
-Drivers
-XML dependencies
+Eclipse,
+MySQL,
+MAMP,
+Maven,
+Atom,
+Java,
+Drivers,
+XML dependencies,
 Scanner
 
 #Lessons Learned
